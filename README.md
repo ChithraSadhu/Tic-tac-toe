@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic toc toe React project
+Tic tac toe React project
